@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Exercise_1 2](https://github.com/divyakumars/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/119393621/8a9760c0-3298-4f08-be20-550aecdde50b)
+![edm 1 2](https://github.com/divyakumars/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/119393621/1c989304-ecf4-4e49-8916-d5d414e10982)
 
  
  ## RESULT
